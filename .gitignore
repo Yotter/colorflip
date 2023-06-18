@@ -1,0 +1,7 @@
+# Ignore all image files
+*.png
+*.jpg
+*.webp
+
+# Exclude user image file
+!image.jpg
