@@ -5,3 +5,4 @@
 
 # Exclude user image file
 !image.jpg
+!intro.png
